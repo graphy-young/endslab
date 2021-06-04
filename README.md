@@ -1,6 +1,6 @@
 # endslab
 This repo contains some code pieces used in research.
-__Notice that few data can be open for security!__
+__Notice there's few data opened for security!__
 
 ## references
 * Airkorea  https://www.airkorea.or.kr/index
